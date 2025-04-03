@@ -69,8 +69,7 @@
 
 ### 📬 Contact Me
 
-- 📧 Email: hamooth678@gmail.com  
-- 📱 Phone: +94-774677678 | +94-750678678  
+- 📧 Email: hamooth678@gmail.com   
 - 🌐 [LinkedIn](https://www.linkedin.com/in/hamooth-ahamed/)  
 - 💻 [GitHub](https://github.com/HamoothAJ)
 
